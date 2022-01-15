@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zgx7.github.io/log</id>
     <title>摘星童丶</title>
-    <updated>2022-01-15T03:40:11.118Z</updated>
+    <updated>2022-01-15T03:41:49.549Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zgx7.github.io/log"/>
     <link rel="self" href="https://zgx7.github.io/log/atom.xml"/>
@@ -10,17 +10,4 @@
     <logo>https://zgx7.github.io/log/images/avatar.png</logo>
     <icon>https://zgx7.github.io/log/favicon.ico</icon>
     <rights>All rights reserved 2022, 摘星童丶</rights>
-    <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://zgx7.github.io/log/post/hello-gridea/</id>
-        <link href="https://zgx7.github.io/log/post/hello-gridea/">
-        </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></content>
-    </entry>
 </feed>
