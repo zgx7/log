@@ -12,10 +12,16 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-<link rel="shortcut icon" href="https://xlog.github.io//favicon.ico?v=1642216574092">
+<link rel="shortcut icon" href="https://stopworld1999.github.io/log//favicon.ico?v=1642217372435">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
-<link rel="stylesheet" href="https://xlog.github.io//styles/main.css">
+<link rel="stylesheet" href="https://stopworld1999.github.io/log//styles/main.css">
 
+
+  
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css" />
+  
+
+  
 
 
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
@@ -29,10 +35,10 @@
       <div class="site-header-container">
   <div class="site-header">
     <div class="left">
-      <a href="https://xlog.github.io/">
-        <img class="avatar" src="https://xlog.github.io//images/avatar.png?v=1642216574092" alt="" width="32px" height="32px">
+      <a href="https://stopworld1999.github.io/log/">
+        <img class="avatar" src="https://stopworld1999.github.io/log//images/avatar.png?v=1642217372435" alt="" width="32px" height="32px">
       </a>
-      <a href="https://xlog.github.io/">
+      <a href="https://stopworld1999.github.io/log/">
         <h1 class="site-title">摘星童丶</h1>
       </a>
     </div>
@@ -80,7 +86,7 @@
       <div class="content-container">
         <div class="post-detail">
           
-            <div class="feature-container" style="background-image: url('https://xlog.github.io//post-images/hello-gridea.png')">
+            <div class="feature-container" style="background-image: url('https://stopworld1999.github.io/log//post-images/hello-gridea.png')">
             </div>
           
           <h2 class="post-title">Hello Gridea</h2>
@@ -90,7 +96,7 @@
               <span>
                 <i class="icon-pricetags-outline"></i>
                 
-                  <a href="https://xlog.github.io/tag/S1K-GxTee/">
+                  <a href="https://stopworld1999.github.io/log/tag/S1K-GxTee/">
                     Gridea
                     
                   </a>
@@ -128,6 +134,12 @@
       </div>
 
       
+        
+          <div id="gitalk-container"></div>
+        
+
+        
+      
 
       <div class="site-footer">
   <div class="slogan">万般皆苦，唯有自度。</div>
@@ -144,7 +156,7 @@
       
     
   </div>
-  Stop_World | <a class="rss" href="https://xlog.github.io//atom.xml" target="_blank">RSS</a>
+  Stop_World | <a class="rss" href="https://stopworld1999.github.io/log//atom.xml" target="_blank">RSS</a>
 </div>
 
 
@@ -161,6 +173,29 @@ var app = new Vue({
 })
 
 </script>
+
+
+
+  
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <script>
+
+      var gitalk = new Gitalk({
+        clientID: '3314fe2531d419e2b388',
+        clientSecret: 'ac1dbb5db41669f23f157eb345a6229a1bc2b6e1',
+        repo: 'log',
+        owner: 'Ksing',
+        admin: ['Ksing'],
+        id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+        distractionFreeMode: false  // Facebook-like distraction free mode
+      })
+
+      gitalk.render('gitalk-container')
+
+    </script>
+  
+
+  
 
 
 
