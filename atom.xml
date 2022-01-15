@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://Xlog.github.io/</id>
+    <id>https://xlog.github.io/</id>
     <title>摘星童丶</title>
-    <updated>2022-01-15T03:15:56.895Z</updated>
+    <updated>2022-01-15T03:16:15.247Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://Xlog.github.io/"/>
-    <link rel="self" href="https://Xlog.github.io/atom.xml"/>
+    <link rel="alternate" href="https://xlog.github.io/"/>
+    <link rel="self" href="https://xlog.github.io/atom.xml"/>
     <subtitle>万般皆苦，唯有自度。</subtitle>
-    <logo>https://Xlog.github.io/images/avatar.png</logo>
-    <icon>https://Xlog.github.io/favicon.ico</icon>
+    <logo>https://xlog.github.io/images/avatar.png</logo>
+    <icon>https://xlog.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 摘星童丶</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://Xlog.github.io/post/hello-gridea/</id>
-        <link href="https://Xlog.github.io/post/hello-gridea/">
+        <id>https://xlog.github.io/post/hello-gridea/</id>
+        <link href="https://xlog.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
