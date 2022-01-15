@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://stopworld1999.github.io/log/</id>
+    <id>https://zgx7.github.io/log/</id>
     <title>摘星童丶</title>
-    <updated>2022-01-15T03:32:03.175Z</updated>
+    <updated>2022-01-15T03:34:31.275Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://stopworld1999.github.io/log/"/>
-    <link rel="self" href="https://stopworld1999.github.io/log/atom.xml"/>
+    <link rel="alternate" href="https://zgx7.github.io/log/"/>
+    <link rel="self" href="https://zgx7.github.io/log/atom.xml"/>
     <subtitle>万般皆苦，唯有自度。</subtitle>
-    <logo>https://stopworld1999.github.io/log/images/avatar.png</logo>
-    <icon>https://stopworld1999.github.io/log/favicon.ico</icon>
+    <logo>https://zgx7.github.io/log/images/avatar.png</logo>
+    <icon>https://zgx7.github.io/log/favicon.ico</icon>
     <rights>All rights reserved 2022, 摘星童丶</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://stopworld1999.github.io/log/post/hello-gridea/</id>
-        <link href="https://stopworld1999.github.io/log/post/hello-gridea/">
+        <id>https://zgx7.github.io/log/post/hello-gridea/</id>
+        <link href="https://zgx7.github.io/log/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
